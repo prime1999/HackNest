@@ -13,7 +13,7 @@ const CreatePost = () => {
 		cretaePosts();
 	});
 
-	return <div>CreatePost</div>;
+	return <div></div>;
 };
 
 export default CreatePost;

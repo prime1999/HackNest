@@ -22,7 +22,7 @@ module.exports = {
 				secondary: "#1A1A1A",
 				black: "#141414",
 				stroke: "#262626",
-				gray: "#7E7E81",
+				gray: "#666666",
 				border: "hsl(var(--border))",
 				input: "hsl(var(--input))",
 				ring: "hsl(var(--ring))",

@@ -5,7 +5,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 
 //componenets
-import MobileNavbar from "@/components/ResponsiveLayouts/MobileNavbar";
+import MobileNavbar from "@/app/components/ResponsiveLayouts/MobileNavbar";
 
 const Navbar = () => {
 	const [scrollNav, setScrollNav] = useState<boolean>(false);
