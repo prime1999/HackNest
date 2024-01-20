@@ -4,7 +4,7 @@ import Image from "next/image";
 import { format } from "date-fns";
 import { FaRegComment } from "react-icons/fa";
 import { MdArrowOutward } from "react-icons/md";
-import { Badge } from "@/components/ui/badge";
+import { Badge } from "@/app/components/ui/badge";
 // components
 import BtnSlider from "../miscelleneous/BtnSlider";
 import Loader from "../miscelleneous/Loader";
