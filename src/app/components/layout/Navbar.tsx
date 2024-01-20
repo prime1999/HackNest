@@ -21,7 +21,7 @@ const Navbar = () => {
 
 	return (
 		<>
-			<nav className="w-full bg-secondary mt-4 border border-stroke py-4 px-16 flex items-center justify-between">
+			<nav className="w-full bg-secondary mt-4 border border-stroke py-4 px-4 flex items-center justify-between md:px-16">
 				<Link href="/" className="flex items-center">
 					<Image src="/images/Group.png" width={20} height={20} alt="logo" />
 					<h4 className="font-kum text-white ml-2">HackNest</h4>

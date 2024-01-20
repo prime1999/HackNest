@@ -6,8 +6,8 @@ const Hero = () => {
 		<>
 			<div className="flex flex-col items-start border-b border-stroke lg:flex-row">
 				<div className="w-full border-r border-b border-stroke lg:w-1/2 lg:border-b-0">
-					<div className="py-16 px-16">
-						<p className="text-sm text-gray font-kum">
+					<div className="p-4 lg:p-16">
+						<p className="text-sm text-gray font-kum mb-4">
 							Your journey to Tomorrow Begins Here
 						</p>
 						<div>
