@@ -4,6 +4,7 @@ import "./globals.css";
 
 //components
 import Navbar from "./components/layout/Navbar";
+import Footer from "./components/layout/Footer";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
@@ -24,6 +25,7 @@ export default function RootLayout({
 			<body className={`${inter.variable} ${kumbh.variable} font-sans`}>
 				<Navbar />
 				{children}
+				<Footer />
 			</body>
 		</html>
 	);

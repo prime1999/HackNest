@@ -8,7 +8,7 @@ const ExploreBlogsSection = () => {
 					A Knowledge Treasure Trove
 				</p>
 				<h3 className="text-3xl mt-2 font-medium text-white lg:text-4xl">
-					Explore FutureTech's In-Depth Blog Posts
+					Explore HackNest's In-Depth Blog Posts
 				</h3>
 			</div>
 			<button className="w-full mt-12 bg-black flex items-center justify-center border border-stroke py-2 px-4 mt-4 rounded-md text-white font-inter duration-500 hover:bg-secondary lg:w-[15%]">

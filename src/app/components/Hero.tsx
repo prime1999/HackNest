@@ -15,7 +15,7 @@ const Hero = () => {
 								Explore the Frontiers of Artificial Intelligence
 							</h1>
 							<p className="text-sm text-gray mt-4">
-								Welcome to the epicenter of AI innovation. FutureTech AI News is
+								Welcome to the epicenter of AI innovation. HackNest AI News is
 								your passport to a world where machines think, learn, and
 								reshape the future. Join us on this visionary expedition into
 								the heart of AI.

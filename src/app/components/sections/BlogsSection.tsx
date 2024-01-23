@@ -64,7 +64,7 @@ const BlogsSection: React.FC = () => {
 					posts.response.map((post) => (
 						<div
 							key={post.$id}
-							className="flex flex-col items-start justify-between mb-4 p-4 border-b border-stroke lg:flex-rows lg:py-8 lg:px-16"
+							className="flex flex-col items-start justify-between p-4 border-b border-stroke lg:flex-row lg:py-8 lg:px-16"
 						>
 							<div className="w-full flex items-center">
 								<Image
